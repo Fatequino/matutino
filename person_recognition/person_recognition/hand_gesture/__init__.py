@@ -1,1 +1,0 @@
-from .hand_gesture import detect_hand
